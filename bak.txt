@@ -1,0 +1,1109 @@
+
+strcpy(posts[0].author,"kush__");
+	strcpy(posts[0].content,"creative");
+	posts[0].likes=224;
+	strcpy(posts[1].author,"arun123");
+	strcpy(posts[1].content,"feeling great!");
+	posts[1].likes=257;
+	strcpy(posts[2].author,"ansh11");
+	strcpy(posts[2].content,"adorable");
+	posts[2].likes=594;
+	strcpy(posts[3].author,"vaishnavi_55");
+	strcpy(posts[3].content,"wow");
+	posts[3].likes=345;
+	strcpy(posts[4].author,"aryan27");
+	strcpy(posts[4].content,"glorious");
+	posts[4].likes=566;
+	strcpy(posts[5].author,"kartik_@");
+	strcpy(posts[5].content,"marvellous");
+	posts[5].likes=546;
+	strcpy(posts[6].author,"bhavesh34");
+	strcpy(posts[6].content,"legend");
+	posts[6].likes=535;
+	strcpy(posts[7].author,"shreya_K");
+	strcpy(posts[7].content,"mesmerising");
+	posts[7].likes=56;
+strcpy(posts[8].author,"palakofficial");
+strcpy(posts[8].content,"riveting");
+posts[8].likes=545;
+strcpy(posts[9].author,"imvinay23");
+strcpy(posts[9].content,"honeymaid");
+posts[9].likes=548;
+strcpy(posts[10].author,"__mansi");
+strcpy(posts[10].content,"great");
+posts[10].likes=5454;
+strcpy(posts[11].author,"pranav__24");
+strcpy(posts[11].content,"legend");
+posts[11].likes=788;
+strcpy(posts[12].author,"harshit_patel");
+strcpy(posts[12].content,"stunning");
+posts[12].likes=547;
+strcpy(posts[13].author,"ujjawaljass");
+strcpy(posts[13].content,"speechless");
+posts[14].likes=424;
+strcpy(posts[14].author,"anushka_##");
+strcpy(posts[14].content,"attractive");
+posts[15].likes=5858;
+strcpy(posts[15].author,"sarthakkk");
+strcpy(posts[15].content,"osm");
+posts[16].likes=545;
+strcpy(posts[16].author,"dms_akshay");
+strcpy(posts[16].content,"majestic");
+posts[17].likes=254;
+strcpy(posts[17].author,"saniiiiiya_*");
+strcpy(posts[17].content,"cutiiiii");
+posts[17].likes=788;
+strcpy(posts[18].author,"mady34");
+strcpy(posts[18].content,"antic piece");
+posts[18].likes=5445;
+strcpy(posts[19].author,"_mayankkkk");
+strcpy(posts[19].content,"heartbreaker");
+posts[19].likes=321;
+strcpy(posts[20].author,"leavemealone_44");
+strcpy(posts[20].content,"blooming");
+posts[20].likes=878;
+strcpy(posts[21].author,"atharva_69");
+strcpy(posts[21].content,"mind blowing");
+posts[21].likes=987;
+strcpy(posts[22].author,"siddhart khare");
+strcpy(posts[22].content,"classy");
+posts[22].likes=288;
+strcpy(posts[23].author,"dev_shah");
+strcpy(posts[23].content,"elegant");
+posts[23].likes=2558;
+strcpy(posts[24].author,"aakansha_dc");
+strcpy(posts[24].content,"decent");
+posts[24].likes=587;
+strcpy(posts[25].author,"sneha_123");
+strcpy(posts[25].content,"friendly");
+posts[25].likes=287;
+strcpy(posts[26].author,"shrey_patidar");
+strcpy(posts[26].content,"recommend");
+posts[26].likes=878;
+strcpy(posts[27].author,"abhishek_kushwah");
+strcpy(posts[27].content,"precious");
+posts[27].likes=2878;
+strcpy(posts[28].author,"manay_porwal");
+strcpy(posts[28].content,"alluring");
+posts[28].likes=5875;
+strcpy(posts[29].author,"harsh_forever");
+strcpy(posts[29].content,"awesome");
+posts[29].likes=2547;
+strcpy(posts[30].author,"kanishq___34");
+strcpy(posts[30].content,"unique");
+posts[30].likes=878;
+strcpy(posts[31].author,"_mr.dheeraj");
+strcpy(posts[31].content,"impressive");
+posts[31].likes=4724;
+strcpy(posts[32].author,"aarush_5454");
+strcpy(posts[32].content,"dazzling");
+posts[32].likes=5847;
+strcpy(posts[33].author,"_nitn_ekka");
+strcpy(posts[33].content,"brilliant");
+posts[33].likes=486;
+strcpy(posts[34].author,"kushwant_oooo");
+strcpy(posts[34].content,"passionate");
+posts[34].likes=5787;
+strcpy(posts[35].author,"sonal___shrivastava_44");
+strcpy(posts[35].content,"beautiful");
+posts[35].likes=548;
+strcpy(posts[36].author,"aditya_44");
+strcpy(posts[36].content,"priceless");
+posts[36].likes=544;
+strcpy(posts[37].author,"akshay2323");
+strcpy(posts[37].content,"amazing....");
+posts[37].likes=6554;
+strcpy(posts[38].author,"avadhi_101");
+strcpy(posts[38].content,"insane");
+posts[38].likes=25;
+strcpy(posts[39].author,"hitesh_67");
+strcpy(posts[39].content,"charming");
+posts[39].likes=878;
+strcpy(posts[40].author,"__kashish");
+strcpy(posts[40].content,"beauty");
+posts[40].likes=58;
+strcpy(posts[41].author,"shrutijoshi");
+strcpy(posts[41].content,"such a charming capture...");
+posts[41].likes=254;
+strcpy(posts[42].author,"amayra_69");
+strcpy(posts[42].content,"prettyyy");
+posts[42].likes=897;
+strcpy(posts[43].author,"sharad_03");
+strcpy(posts[43].content,"sharp");
+posts[43].likes=878;
+strcpy(posts[44].author,"charu_kamble");
+strcpy(posts[44].content,"boldd...");
+posts[44].likes=398;
+strcpy(posts[45].author,"aayushjain");
+strcpy(posts[45].content,"perfectoo");
+posts[45].likes=398;
+strcpy(posts[46].author,"adarsh___");
+strcpy(posts[46].content,"");
+posts[46].likes=741;
+strcpy(posts[47].author,"radha chaurasia");
+strcpy(posts[47].content,"impressed");
+posts[47].likes=584;
+strcpy(posts[48].author,"anshul__paliwal");
+strcpy(posts[48].content,"better..");
+posts[48].likes=787;
+strcpy(posts[49].author,"__anushka");
+strcpy(posts[49].content,"natural");
+posts[49].likes=879;
+strcpy(posts[50].author,"harshu");
+strcpy(posts[50].content,"sweet");
+posts[50].likes=987;
+strcpy(posts[51].author,"_masih_");
+strcpy(posts[51].content,"fashionable");
+posts[51].likes=687;
+strcpy(posts[52].author,"darshana_-thakur");
+strcpy(posts[52].content,"charming");
+posts[52].likes=364;
+strcpy(posts[53].author,"anujjjjjj");
+strcpy(posts[53].content,"wonderfull");
+posts[53].likes=984;
+strcpy(posts[54].author,"steve09");
+strcpy(posts[54].content,"i'm bullish on ind");
+posts[54].likes=345;
+strcpy(posts[55].author,"shreyas77");
+strcpy(posts[55].content,"be yourself..always");
+posts[55].likes=237;
+strcpy(posts[56].author,"babylonbee");
+strcpy(posts[56].content,"life is a race..");
+posts[56].likes=984;
+strcpy(posts[57].author,"explorecc5");
+strcpy(posts[57].content,"accurate!");
+posts[57].likes=566;
+strcpy(posts[58].author,"smartprix77");
+strcpy(posts[58].content,"update for uu gguyzz..");
+posts[58].likes=555;
+strcpy(posts[59].author,"curiousg09");
+strcpy(posts[59].content,"nothing to say..");
+posts[59].likes=475;
+strcpy(posts[60].author,"ajaysingh55");
+strcpy(posts[60].content,"the work life balance!");
+posts[61].likes=335;
+strcpy(posts[61].author,"chaudharyee05 ");
+strcpy(posts[61].content,"blaster!!");
+posts[61].likes=999;
+strcpy(posts[62].author,"spideyy9");
+strcpy(posts[62].content,"miles morales met peter parker.. ");
+posts[62].likes=345;
+strcpy(posts[63].author,"jaysitt5");
+strcpy(posts[63].content,"tesla on fire..");
+posts[63].likes=876;
+strcpy(posts[64].author,"fasc1nate55");
+strcpy(posts[64].content,"fascinating..hehe");
+posts[64].likes=123;
+strcpy(posts[65].author,"alianadcruz22");
+strcpy(posts[65].content,"actually happened to me..xd");
+posts[65].likes=567;
+strcpy(posts[66].author,"germaniee");
+strcpy(posts[66].content,"is soap masculine?");
+posts[66].likes=777;
+strcpy(posts[67].author,"maxxdude");
+strcpy(posts[67].content,"i'm back bruh..  ");
+posts[67].likes=237;
+strcpy(posts[68].author,"liaa");
+strcpy(posts[68].content,"i'm an artificial intelligence..lol");
+posts[68].likes=056;
+strcpy(posts[69].author,"kingxxx09");
+strcpy(posts[69].content,"maan meri jaan..XD");
+posts[69].likes=999;
+strcpy(posts[70].author,"dogedesigner77");
+strcpy(posts[70].content,"we are all set!");
+posts[70].likes=699;
+strcpy(posts[71].author,"theguyy009");
+strcpy(posts[71].content,"on the school run..");
+posts[71].likes= 114;
+strcpy(posts[72].author,"mathiasfons33");
+strcpy(posts[72].content,"launched it finally!");
+posts[72].likes=447;
+strcpy(posts[73].author,"eshaii3");
+strcpy(posts[73].content,"probably more!  ");
+posts[73].likes=225;
+strcpy(posts[74].author,"hiyan29");
+strcpy(posts[74].content,"went outdoors.. ");
+posts[74].likes= 896 ;
+strcpy(posts[75].author,"stewiee56");
+strcpy(posts[75].content,"frustrated..");
+posts[75].likes= 554 ;
+strcpy(posts[76].author,"maxiiueee");
+strcpy(posts[76].content,"fighting");
+posts[76].likes= 998 ;
+strcpy(posts[77].author,"marriyy7");
+strcpy(posts[77].content,"i'm fine bruhh..XD");
+posts[77].likes= 645;
+strcpy(posts[78].author,"aashuu");
+strcpy(posts[78].content,"damn..");
+posts[78].likes= 443;
+strcpy(posts[79].author,"aman667");
+strcpy(posts[79].content,"someone's up?");
+posts[79].likes= 765;
+strcpy(posts[80].author,"jadhav");
+strcpy(posts[80].content,"lit");
+posts[80].likes=548;
+strcpy(posts[81].author,"rohitzzzzzzzz____34");
+strcpy(posts[81].content,"stunning");
+posts[81].likes=2454;
+strcpy(posts[82].author,"kartik___3454");
+strcpy(posts[82].content,"kindnesss");
+posts[82].likes=588;
+strcpy(posts[83].author,"saloni_676");
+strcpy(posts[83].content,"confident");
+posts[83].likes=555;
+strcpy(posts[84].author,"harrrssshhh___");
+strcpy(posts[84].content,"creative");
+posts[84].likes=654;
+strcpy(posts[85].author,"kratika65");
+strcpy(posts[85].content,"rockstar");
+posts[85].likes=257;
+strcpy(posts[86].author,"tanuj__patel");
+strcpy(posts[86].content,"savage");
+posts[86].likes=159;
+strcpy(posts[87].author,"saisharma");
+strcpy(posts[87].content,"colorfulll");
+posts[87].likes=984;
+strcpy(posts[88].author,"karan__thakur");
+strcpy(posts[88].content,"damnnnn...");
+posts[88].likes=545;
+strcpy(posts[89].author,"___mansi");
+strcpy(posts[89].content,"marvellous");
+posts[89].likes=546;
+strcpy(posts[90].author,"vedant__rathi");
+strcpy(posts[90].content,"coool");
+posts[90].likes=545;
+strcpy(posts[91].author,"harsh__beniwal");
+strcpy(posts[91].content,"superstar");
+posts[91].likes=548;
+strcpy(posts[92].author,"yashwant66");
+strcpy(posts[92].content,"introverted");
+posts[92].likes=964;
+strcpy(posts[93].author,"___pallavi");
+strcpy(posts[93].content,"model");
+posts[93].likes=445;
+strcpy(posts[94].author,"abhayyyy__76");
+strcpy(posts[94].content,"winner");
+posts[94].likes=6546;
+strcpy(posts[95].author,"avi_kumar");
+strcpy(posts[95].content,"trendyyy");
+posts[95].likes=455;
+strcpy(posts[96].author,"khushiii_nika54");
+strcpy(posts[96].content,"uniqueeee");
+posts[96].likes=254;
+strcpy(posts[97].author,"aakansha");
+strcpy(posts[97].content,"sunshine");
+posts[97].likes=524;
+strcpy(posts[98].author,"___ritsss");
+strcpy(posts[98].content,"crazyy....");
+posts[98].likes=254;
+strcpy(posts[99].author,"keshav_saxena");
+strcpy(posts[99].content,"badass");
+posts[99].likes=244;
+strcpy(posts[100].author," theweeknd");
+strcpy(posts[100].content," Just dropped a new music video, check it out");
+    posts[100].likes=567;
+
+    strcpy(posts[101].author,"@ladygaga");
+    strcpy(posts[101].content," Just finished a performance on the Grammys, what a rush!.");
+    posts[101].likes=100;
+
+    strcpy(posts[102].author," @snoopdogg");
+    strcpy(posts[102].content," Just hit the studio for a new album, bringing some heat!");
+    posts[102].likes=466;
+
+    strcpy(posts[103].author," @nasa");
+    strcpy(posts[103].content," just landed the Perseverance Rover on Mars, making history!");
+    posts[103].likes=141;
+
+    strcpy(posts[104].author," @theweeknd");
+    strcpy(posts[104].content," just dropped a new music video, check it out.lonely");
+    posts[104].likes=708;
+
+    strcpy(posts[105].author," shakira:");
+    strcpy(posts[105].content," just finished a concert in Brazil, love performing for my fans.?");
+    posts[105].likes=170;
+
+    strcpy(posts[106].author," argotrobbie");
+    strcpy(posts[106].content," just wrapped up filming on my latest film, looking forward to its release...");
+    posts[106].likes=798;
+
+strcpy(posts[107].author,"nikita01");
+strcpy(posts[107].content,"let's go shopping!!");
+posts[107].likes=157;
+
+strcpy(posts[108].author,"allendior");
+strcpy(posts[108].content,"had a great day!!");
+posts[108].likes=475;
+
+strcpy(posts[109].author,"ahana007");
+strcpy(posts[109].content,"you up?");
+posts[109].likes=400;
+
+strcpy(posts[110].author,"bae66");
+strcpy(posts[110].content,"not for uu");
+posts[110].likes=146;
+
+strcpy(posts[111].author,"hittie00");
+strcpy(posts[111].content,"trek ends..");
+posts[111].likes=908;
+
+strcpy(posts[112].author,"donaldiee");
+strcpy(posts[112].content,"another busy day..");
+posts[112].likes=570;
+
+strcpy(posts[113].author,"paariy99");
+strcpy(posts[113].content,"got no chill!!");
+posts[113].likes=798;
+
+strcpy(posts[114].author," johndoe");
+strcpy(posts[114].content," Hey guys, what's up?");
+posts[114].likes=157;
+
+strcpy(posts[115].author," katiejones");
+strcpy(posts[115].content,"what's up?");
+posts[115].likes=475;
+
+strcpy(posts[116].author,"xoxo00");
+strcpy(posts[116].content,"moon and the stars");
+posts[116].likes=400;
+
+strcpy(posts[117].author,"rock45");
+strcpy(posts[117].content,"molten..");
+posts[117].likes=141;
+
+strcpy(posts[118].author,"humpp");
+strcpy(posts[118].content,"off the road");
+posts[118].likes=908;
+
+strcpy(posts[119].author,"happyduck11");
+strcpy(posts[119].content,"anyone got coupons?");
+posts[119].likes=570;
+
+strcpy(posts[120].author,"tripp17");
+strcpy(posts[120].content,"bad grades smh");
+posts[120].likes=798;
+
+strcpy(posts[121].author,"ficci");
+strcpy(posts[121].content,"first note");
+posts[121].likes=157;
+
+strcpy(posts[122].author,"garry00107");
+strcpy(posts[122].content,"love coding!!");
+posts[122].likes=475;
+
+strcpy(posts[123].author,"geeta77");
+strcpy(posts[123].content,"had a great day with my friends..");
+posts[123].likes=400;
+
+strcpy(posts[124].author,"sassy8");
+strcpy(posts[124].content,"glamarous it is..");
+posts[124].likes=141;
+
+strcpy(posts[125].author,"hyphii");
+strcpy(posts[125].content,"got something important to do!");
+posts[125].likes=908;
+
+strcpy(posts[126].author,"srushtiov");
+strcpy(posts[126].content,"fed up!!");
+posts[126].likes=1570;
+
+strcpy(posts[127].author,"trixyy009");
+strcpy(posts[127].content,"basketball team there?");
+posts[127].likes=798;
+
+strcpy(posts[128].author,"exoticishh");
+strcpy(posts[128].content,"congratulations! you fucked up!!");
+posts[128].likes=157;
+
+strcpy(posts[129].author,"darshiee55");
+strcpy(posts[129].content,"it was damn tasty!");
+posts[129].likes=475;
+
+strcpy(posts[130].author,"mrg009");
+strcpy(posts[130].content,"hima warii..");
+posts[130].likes=400;
+
+
+strcpy(posts[131].author,"spiderman");
+strcpy(posts[131].content,"why so chocolaty?");
+posts[131].likes=141;
+
+strcpy(posts[132].author,"humptyy009");
+strcpy(posts[132].content,"i ain't president.");
+posts[132].likes=908;
+
+strcpy(posts[133].author,"pomppie11");
+strcpy(posts[133].content,"elections again!");
+posts[133].likes=570;
+
+strcpy(posts[134].author,"trickkie11");
+strcpy(posts[134].content,"bad grades smh");
+posts[134].likes=798;
+
+strcpy(posts[135].author,"sariyah765");
+strcpy(posts[135].content,"dumped it!");
+posts[135].likes=157;
+
+strcpy(posts[136].author,"anushii54");
+strcpy(posts[136].content,"hlwww everyone!");
+posts[136].likes=475;
+
+strcpy(posts[137].author,"angel11");
+strcpy(posts[137].content,"let's go prom!");
+posts[137].likes=400;
+
+strcpy(posts[138].author,"simpuu6");
+strcpy(posts[138].content,"had an amazing day>>");
+posts[138].likes=141;
+
+strcpy(posts[139].author,"charlie");
+strcpy(posts[139].content,"lost a gem..");
+posts[139].likes=908;
+
+strcpy(posts[140].author,"aloneone11");
+strcpy(posts[140].content,"it sucks..");
+posts[140].likes=570;
+
+strcpy(posts[141].author,"nairaa6");
+strcpy(posts[141].content,"crazy trips umm..");
+posts[141].likes=798;
+
+strcpy(posts[142].author,"phillipe11");
+strcpy(posts[142].content,"keep it simple..");
+posts[142].likes=157;
+
+strcpy(posts[143].author,"spamiee");
+strcpy(posts[143].content,"new day ,new vibe..");
+posts[143].likes=475;
+
+strcpy(posts[144].author,"brian01");
+strcpy(posts[144].content,"scheduled a flight tomorrow!");
+posts[144].likes=400;
+
+strcpy(posts[145].author,"bruh99");
+strcpy(posts[145].content,"day well spent>>");
+posts[145].likes=141;
+
+strcpy(posts[146].author,"theboys69");
+strcpy(posts[146].content,"nailed it dude..");
+posts[146].likes=908;
+
+strcpy(posts[147].author,"sarcasticbruh99");
+strcpy(posts[147].content,"got the bill santioned?");
+posts[147].likes=570;
+
+strcpy(posts[148].author,"mistyy111");
+strcpy(posts[148].content,"uff..managed it somehow!");
+posts[148].likes=798;
+
+strcpy(posts[149].author,"freyyycc5");
+strcpy(posts[149].content,"went starbucks..no bucks left!");
+posts[149].likes=157;
+
+strcpy(posts[150].author,"chris007");
+strcpy(posts[150].content,"first game, first win- well done!");
+posts[150].likes=455;
+
+strcpy(posts[150].author,"learnerv001");
+strcpy(posts[150].content,"this sis gwtting serious!");
+posts[150].likes=886;
+
+strcpy(posts[151].author,"aleen0");
+strcpy(posts[151].content,"damned if you do, damned if you don't!");
+posts[151].likes=765;
+
+strcpy(posts[152].author,"samsungindia");
+strcpy(posts[152].content,"favourite S pen trick?");
+posts[152].likes=716;
+
+strcpy(posts[153].author,"steve09");
+strcpy(posts[153].content,"i'm bullish on ind");
+posts[153].likes=145;
+
+strcpy(posts[154].author,"heyy77");
+strcpy(posts[154].content,"something is wrong..");
+posts[154].likes=111;
+
+strcpy(posts[155].author,"shreyas77");
+strcpy(posts[155].content,"be yourself..always");
+posts[155].likes=117;
+
+strcpy(posts[156].author,"babylonbee");
+strcpy(posts[156].content,"life is a race..");
+posts[156].likes=984;
+
+strcpy(posts[157].author,"explorecc5");
+strcpy(posts[157].content,"accurate!");
+posts[157].likes=566;
+
+strcpy(posts[158].author,"smartprix77");
+strcpy(posts[158].content,"update for uu gguyzz..");
+posts[158].likes=555;
+
+strcpy(posts[159].author,"curiousg09");
+strcpy(posts[159].content,"nothing to say..");
+posts[159].likes=475;
+
+strcpy(posts[160].author," Josephine Martinez ");
+strcpy(posts[160].content,"the work life balance!");
+posts[160].likes=115;
+
+strcpy(posts[161].author," Jonathan Foster ");
+strcpy(posts[161].content,"blaster!!");
+posts[161].likes=999;
+
+strcpy(posts[162].author," Jaxon Brown ");
+strcpy(posts[162].content,"miles morales met peter parker.. ");
+posts[162].likes=145;
+
+strcpy(posts[163].author," Harper Davis");
+strcpy(posts[163].content,"tesla on fire..");
+posts[163].likes=876;
+
+strcpy(posts[164].author," Gabriella Walker ");
+strcpy(posts[164].content,"fascinating..hehe");
+posts[164].likes=111;
+
+strcpy(posts[165].author," Faith Perez");
+strcpy(posts[165].content,"actually happened to me..xd");
+posts[165].likes=567;
+
+strcpy(posts[166].author," Emma Riley ");
+strcpy(posts[166].content,"is soap masculine?");
+posts[166].likes=777;
+
+strcpy(posts[167].author," Dylan Carter ");
+strcpy(posts[167].content,"i'm back bruh..  ");
+posts[167].likes=117;
+
+strcpy(posts[168].author," Cameron Baker ");
+strcpy(posts[168].content,"i'm an artificial intelligence..lol");
+posts[168].likes=056;
+
+strcpy(posts[169].author," Brookelyn Scott ");
+strcpy(posts[169].content,"maan meri jaan..XD");
+posts[169].likes=999;
+
+strcpy(posts[170].author," Aria Anderson ");
+strcpy(posts[170].content,"we are all set!");
+posts[170].likes=699;
+
+strcpy(posts[171].author," Adalynn Gray ");
+strcpy(posts[171].content,"on the school run..");
+posts[171].likes= 114;
+
+strcpy(posts[172].author," TweetChitChat ");
+strcpy(posts[172].content,"launched it finally!");
+posts[172].likes=447;
+
+strcpy(posts[173].author," TweetRiot ");
+strcpy(posts[173].content,"probably more!  ");
+posts[173].likes=115;
+
+strcpy(posts[174].author," ChirpChirpChirpingChirping ");
+strcpy(posts[174].content,"went outdoors.. ");
+posts[174].likes= 896 ;
+
+strcpy(posts[175].author," TweetTwaddle");
+strcpy(posts[175].content,"frustrated..");
+posts[175].likes= 554 ;
+
+strcpy(posts[176].author," TweetBabbles ");
+strcpy(posts[176].content,"fighting for it,");
+posts[176].likes= 998 ;
+
+strcpy(posts[177].author,"TweetRaves");
+strcpy(posts[177].content,"i'm fine bruhh..XD");
+posts[177].likes= 645;
+
+strcpy(posts[178].author," TweetLaughs ");
+strcpy(posts[178].content,"damn..");
+posts[178].likes= 441;
+
+strcpy(posts[179].author," TweetFrenzy ");
+strcpy(posts[179].content,"someone's up?");
+posts[179].likes= 765;
+
+strcpy(posts[180].author," ChirpChaos ");
+strcpy(posts[180].content,"it hits different dude.. ");
+posts[180].likes= 896 ;
+
+strcpy(posts[181].author," TweetTalk ");
+strcpy(posts[181].content,"mamu..that's cool.. ");
+posts[181].likes= 115 ;
+
+strcpy(posts[182].author,"sohannn");
+strcpy(posts[182].content,"hwyy.. u bruh..");
+posts[182].likes= 565 ;
+
+strcpy(posts[183].author," TweetTricks ");
+strcpy(posts[183].content,"that one guy..");
+posts[183].likes= 887;
+
+strcpy(posts[184].author," TweetGossip ");
+strcpy(posts[184].content,"had it all. ");
+posts[184].likes= 896 ;
+
+strcpy(posts[185].author," ChirpChirp");
+strcpy(posts[185].content,"to the moon and back..");
+posts[185].likes= 111;
+
+strcpy(posts[186].author," johndoe");
+strcpy(posts[186].content," i'm damn tired>>");
+posts[186].likes= 896 ;
+
+strcpy(posts[187].author," davidsmith");
+strcpy(posts[187].content,"for the sake of it..");
+posts[187].likes= 115;
+
+strcpy(posts[188].author," michaelbaker");
+strcpy(posts[188].content,"tired af");
+posts[188].likes= 896 ;
+
+       strcpy(posts[189].author," janetlee");
+       strcpy(posts[189].content,"went shopping..");
+       posts[189].likes= 676 ;
+       
+       strcpy(posts[190].author," mikewilson");
+       strcpy(posts[190].content,"no plans today");
+       posts[190].likes= 111;
+       
+       strcpy(posts[191].author," lisaallen");
+       strcpy(posts[191].content," Just got back from a trip to Europe, so many amazing experiences!..");
+       posts[191].likes= 776;
+       
+       strcpy(posts[192].author," davidsmith");
+       strcpy(posts[192].content," Just had the best steak ever! ");
+       posts[192].likes= 111;
+       
+       strcpy(posts[193].author," laurajones");
+      strcpy(posts[193].content," Just had a great night out with friends!");
+       posts[193].likes=565 ;
+       
+       strcpy(posts[194].author," michaelbaker ");
+       strcpy(posts[194].content," Just finished a big race, so proud of myself ");
+       posts[194].likes= 151;
+       
+       strcpy(posts[195].author," jackjohnson ");
+       strcpy(posts[195].content," Just had a great workout, feeling energized.");
+       posts[195].likes= 667;
+       
+       strcpy(posts[196].author," katiebrown");
+       strcpy(posts[196].content," Just finished a big exam, so relieved it's over.");
+       posts[196].likes= 856;
+       
+       strcpy(posts[197].author," mikewilson ");
+       strcpy(posts[197].content," Just had the best vacation, so many amazing memories.");
+       posts[197].likes= 111 ;
+       
+       strcpy(posts[198].author," johndavis");
+       strcpy(posts[198].content," Just got back from a road trip, so many great memories! ");
+       posts[198].likes= 455;
+       
+       strcpy(posts[199].author," janetlee");
+       strcpy(posts[199].content," Just had a great yoga class, feeling relaxed");
+       posts[199].likes= 999;
+strcpy(posts[200].author,"akshay12");
+strcpy(posts[200].content,"hello everyone");
+    posts[200].likes=567;
+
+    strcpy(posts[201].author,"aahil56");
+    strcpy(posts[201].content,"tired..");
+    posts[201].likes=100;
+
+    strcpy(posts[202].author,"bunny");
+    strcpy(posts[202].content,"irritating as hell");
+    posts[202].likes=466;
+
+    strcpy(posts[203].author,"itzme");
+    strcpy(posts[203].content,"wanna say goodnight to you");
+    posts[203].likes=143;
+
+    strcpy(posts[204].author,"astha");
+    strcpy(posts[204].content,"feeling lonely");
+    posts[204].likes=908;
+
+    strcpy(posts[205].author,"strangerworld01");
+    strcpy(posts[205].content,"you there?");
+    posts[205].likes=570;
+
+    strcpy(posts[206].author,"mickeyy");
+    strcpy(posts[206].content,"end sem starts..");
+    posts[206].likes=798;
+
+strcpy(posts[207].author,"nikita03");
+strcpy(posts[207].content,"let's go shopping!!");
+posts[207].likes=257;
+
+strcpy(posts[208].author,"allendior");
+strcpy(posts[208].content,"had a great day!!");
+posts[208].likes=475;
+
+strcpy(posts[209].author,"ahana007");
+strcpy(posts[209].content,"you up?");
+posts[209].likes=400;
+
+strcpy(posts[210].author,"bae66");
+strcpy(posts[210].content,"not for uu");
+posts[210].likes=146;
+
+strcpy(posts[211].author,"hittie00");
+strcpy(posts[211].content,"trek ends..");
+posts[211].likes=908;
+
+strcpy(posts[212].author,"donaldiee");
+strcpy(posts[212].content,"another busy day..");
+posts[212].likes=570;
+
+strcpy(posts[213].author,"paariy99");
+strcpy(posts[213].content,"got no chill!!");
+posts[213].likes=798;
+
+strcpy(posts[214].author,"sam665");
+strcpy(posts[214].content,"hiee guyzzzz");
+posts[214].likes=257;
+
+strcpy(posts[215].author,"hieec");
+strcpy(posts[215].content,"what's up?");
+posts[215].likes=475;
+
+strcpy(posts[216].author,"xoxo00");
+strcpy(posts[216].content,"moon and the stars");
+posts[216].likes=400;
+
+strcpy(posts[217].author,"rock45");
+strcpy(posts[217].content,"molten..");
+posts[217].likes=143;
+
+strcpy(posts[218].author,"humpp");
+strcpy(posts[218].content,"off the road");
+posts[218].likes=908;
+
+strcpy(posts[219].author,"happyduck21");
+strcpy(posts[219].content,"anyone got coupons?");
+posts[219].likes=570;
+
+strcpy(posts[220].author,"tripp27");
+strcpy(posts[220].content,"bad grades smh");
+posts[220].likes=798;
+
+strcpy(posts[221].author,"ficci");
+strcpy(posts[221].content,"first note");
+posts[221].likes=257;
+
+strcpy(posts[222].author,"garry00107");
+strcpy(posts[222].content,"love coding!!");
+posts[222].likes=475;
+
+strcpy(posts[223].author,"geeta77");
+strcpy(posts[223].content,"had a great day with my friends..");
+posts[223].likes=400;
+
+strcpy(posts[224].author,"sassy8");
+strcpy(posts[224].content,"glamarous it is..");
+posts[224].likes=143;
+
+strcpy(posts[225].author,"hyphii");
+strcpy(posts[225].content,"got something important to do!");
+posts[225].likes=908;
+
+strcpy(posts[226].author,"srushtiov");
+strcpy(posts[226].content,"fed up!!");
+posts[226].likes=1570;
+
+strcpy(posts[227].author,"trixyy009");
+strcpy(posts[227].content,"basketball team there?");
+posts[227].likes=798;
+
+strcpy(posts[228].author,"exoticishh");
+strcpy(posts[228].content,"congratulations! you fucked up!!");
+posts[228].likes=257;
+
+strcpy(posts[229].author,"darshiee55");
+strcpy(posts[229].content,"it was damn tasty!");
+posts[229].likes=475;
+
+strcpy(posts[230].author,"mrg009");
+strcpy(posts[230].content,"hima warii..");
+posts[230].likes=400;
+
+
+strcpy(posts[231].author,"spiderman");
+strcpy(posts[231].content,"why so chocolaty?");
+posts[231].likes=143;
+
+strcpy(posts[232].author,"humptyy009");
+strcpy(posts[232].content,"i ain't president.");
+posts[232].likes=908;
+
+strcpy(posts[233].author,"pomppie33");
+strcpy(posts[233].content,"elections again!");
+posts[233].likes=570;
+
+strcpy(posts[234].author,"trickkie11");
+strcpy(posts[234].content,"bad grades smh");
+posts[234].likes=798;
+
+strcpy(posts[235].author,"sariyah765");
+strcpy(posts[235].content,"dumped it!");
+posts[235].likes=257;
+
+strcpy(posts[236].author,"anushii54");
+strcpy(posts[236].content,"hlwww everyone!");
+posts[236].likes=475;
+
+strcpy(posts[237].author,"angel22");
+strcpy(posts[237].content,"let's go prom!");
+posts[237].likes=400;
+
+strcpy(posts[238].author,"simpuu6");
+strcpy(posts[238].content,"had an amazing day>>");
+posts[238].likes=143;
+
+strcpy(posts[239].author,"charlie");
+strcpy(posts[239].content,"lost a gem..");
+posts[239].likes=908;
+
+strcpy(posts[240].author,"aloneone11");
+strcpy(posts[240].content,"it sucks..");
+posts[240].likes=570;
+
+strcpy(posts[241].author,"nairaa6");
+strcpy(posts[241].content,"crazy trips umm..");
+posts[241].likes=798;
+
+strcpy(posts[242].author,"phillipe11");
+strcpy(posts[242].content,"keep it simple..");
+posts[242].likes=257;
+
+strcpy(posts[243].author,"spamiee");
+strcpy(posts[243].content,"new day ,new vibe..");
+posts[243].likes=475;
+
+strcpy(posts[244].author,"brian01");
+strcpy(posts[244].content,"scheduled a flight tomorrow!");
+posts[244].likes=400;
+
+strcpy(posts[245].author,"bruh99");
+strcpy(posts[245].content,"day well spent>>");
+posts[245].likes=143;
+
+strcpy(posts[246].author,"theboys69");
+strcpy(posts[246].content,"nailed it dude..");
+posts[246].likes=908;
+
+strcpy(posts[247].author,"sarcasticbruh99");
+strcpy(posts[247].content,"got the bill santioned?");
+posts[247].likes=570;
+
+strcpy(posts[248].author,"mistyy123");
+strcpy(posts[248].content,"uff..managed it somehow!");
+posts[248].likes=798;
+
+strcpy(posts[249].author,"freyyycc5");
+strcpy(posts[249].content,"went starbucks..no bucks left!");
+posts[249].likes=257;
+
+strcpy(posts[250].author,"chris007");
+strcpy(posts[250].content,"first game, first win- well done!");
+posts[250].likes=455;
+
+strcpy(posts[250].author,"learnerv002");
+strcpy(posts[250].content,"this sis gwtting serious!");
+posts[250].likes=886;
+
+strcpy(posts[251].author,"aleen0");
+strcpy(posts[251].content,"damned if you do, damned if you don't!");
+posts[251].likes=765;
+
+strcpy(posts[252].author,"samsungindia");
+strcpy(posts[252].content,"favourite S pen trick?");
+posts[252].likes=736;
+
+strcpy(posts[253].author,"steve09");
+strcpy(posts[253].content,"i'm bullish on ind");
+posts[253].likes=345;
+
+strcpy(posts[254].author,"heyy77");
+strcpy(posts[254].content,"something is wrong..");
+posts[254].likes=111;
+
+strcpy(posts[255].author,"shreyas77");
+strcpy(posts[255].content,"be yourself..always");
+posts[255].likes=237;
+
+strcpy(posts[256].author,"babylonbee");
+strcpy(posts[256].content,"life is a race..");
+posts[256].likes=984;
+
+strcpy(posts[257].author,"explorecc5");
+strcpy(posts[257].content,"accurate!");
+posts[257].likes=566;
+
+strcpy(posts[258].author,"smartprix77");
+strcpy(posts[258].content,"update for uu gguyzz..");
+posts[258].likes=555;
+
+strcpy(posts[259].author,"curiousg09");
+strcpy(posts[259].content,"nothing to say..");
+posts[259].likes=475;
+
+strcpy(posts[260].author,"ajaysingh55");
+strcpy(posts[260].content,"the work life balance!");
+posts[260].likes=335;
+
+strcpy(posts[261].author,"chaudharyee05 ");
+strcpy(posts[261].content,"blaster!!");
+posts[261].likes=999;
+
+strcpy(posts[262].author,"spideyy9");
+strcpy(posts[262].content,"miles morales met peter parker.. ");
+posts[262].likes=345;
+
+strcpy(posts[263].author,"jaysitt5");
+strcpy(posts[263].content,"tesla on fire..");
+posts[263].likes=876;
+
+strcpy(posts[264].author,"fasc1nate55");
+strcpy(posts[264].content,"fascinating..hehe");
+posts[264].likes=123;
+
+strcpy(posts[265].author,"alianadcruz22");
+strcpy(posts[265].content,"actually happened to me..xd");
+posts[265].likes=567;
+
+strcpy(posts[266].author,"germaniee");
+strcpy(posts[266].content,"is soap masculine?");
+posts[266].likes=777;
+
+strcpy(posts[267].author,"maxxdude");
+strcpy(posts[267].content,"i'm back bruh..  ");
+posts[267].likes=237;
+
+strcpy(posts[268].author,"liaa");
+strcpy(posts[268].content,"i'm an artificial intelligence..lol");
+posts[268].likes=056;
+
+strcpy(posts[269].author,"kingxxx09");
+strcpy(posts[269].content,"maan meri jaan..XD");
+posts[269].likes=999;
+
+strcpy(posts[270].author,"dogedesigner77");
+strcpy(posts[270].content,"we are all set!");
+posts[270].likes=699;
+
+strcpy(posts[271].author,"theguyy009");
+strcpy(posts[271].content,"on the school run..");
+posts[271].likes= 114;
+
+strcpy(posts[272].author,"mathiasfons33");
+strcpy(posts[272].content,"launched it finally!");
+posts[272].likes=447;
+
+strcpy(posts[273].author,"eshaii3");
+strcpy(posts[273].content,"probably more!  ");
+posts[273].likes=225;
+
+strcpy(posts[274].author,"hiyan29");
+strcpy(posts[274].content,"went outdoors.. ");
+posts[274].likes= 896 ;
+
+strcpy(posts[275].author,"stewiee56");
+strcpy(posts[275].content,"frustrated..");
+posts[275].likes= 554 ;
+
+strcpy(posts[276].author,"maxiiueee");
+strcpy(posts[276].content,"fighting for it,");
+posts[276].likes= 998 ;
+
+strcpy(posts[277].author,"marriyy7");
+strcpy(posts[277].content,"i'm fine bruhh..XD");
+posts[277].likes= 645;
+
+strcpy(posts[278].author,"aashuu");
+strcpy(posts[278].content,"damn..");
+posts[278].likes= 443;
+
+strcpy(posts[279].author,"aman667");
+strcpy(posts[279].content,"someone's up?");
+posts[279].likes= 765;
+
+strcpy(posts[280].author,"aryangg98");
+strcpy(posts[280].content,"it hits different dude.. ");
+posts[280].likes= 896 ;
+
+strcpy(posts[281].author,"suzzeeee12");
+strcpy(posts[281].content,"mamu..that's cool.. ");
+posts[281].likes= 125 ;
+
+strcpy(posts[282].author,"sohannn");
+strcpy(posts[282].content,"hwyy.. u bruh..");
+posts[282].likes= 565 ;
+
+strcpy(posts[283].author,"sahilkhan5");
+strcpy(posts[283].content,"that one guy..");
+posts[283].likes= 887;
+
+strcpy(posts[284].author,"ekkugg");
+strcpy(posts[284].content,"had it all. ");
+posts[284].likes= 896 ;
+
+strcpy(posts[285].author,"mistyyue");
+strcpy(posts[285].content,"to the moon and back..");
+posts[285].likes= 332;
+
+strcpy(posts[286].author,"diggyhh");
+strcpy(posts[286].content," i'm damn tired>>");
+posts[286].likes= 896 ;
+
+strcpy(posts[287].author,"charles66");
+strcpy(posts[287].content,"for the sake of it..");
+posts[287].likes= 225;
+
+strcpy(posts[288].author,"hawkins8");
+strcpy(posts[288].content,"tired af");
+posts[288].likes= 896 ;
+
+       strcpy(posts[289].author,"hiieee");
+       strcpy(posts[289].content,"went shopping..");
+       posts[289].likes= 676 ;
+       
+       strcpy(posts[290].author,"arush55");
+       strcpy(posts[290].content,"no plans today");
+       posts[290].likes= 333;
+       
+       strcpy(posts[291].author,"stephens3");
+       strcpy(posts[291].content,"hey people..");
+       posts[291].likes= 776;
+       
+       strcpy(posts[292].author,"fexxie7");
+       strcpy(posts[292].content,"i'm done guyz");
+       posts[292].likes= 123;
+       
+       strcpy(posts[293].author,"eziie");
+       strcpy(posts[293].content,"feeling noicee");
+       posts[293].likes=565 ;
+       
+       strcpy(posts[294].author,"martin88");
+       strcpy(posts[294].content,"made through it");
+       posts[294].likes= 353;
+       
+       strcpy(posts[295].author,"sppiinnn");
+       strcpy(posts[295].content,"probably takin a nap.");
+       posts[295].likes= 667;
+       
+       strcpy(posts[296].author,"catishhguyy");
+       strcpy(posts[296].content,"always sleepy.");
+       posts[296].likes= 856;
+       
+       strcpy(posts[297].author,"perishh0i");
+       strcpy(posts[297].content,"cold it is..");
+       posts[297].likes= 111 ;
+       
+       strcpy(posts[298].author,"maryy");
+       strcpy(posts[298].content,"done");
+       posts[298].likes= 455;
+       
+       strcpy(posts[299].author,"hampyy");
+       strcpy(posts[299].content,"hehe..u there?");
+       posts[299].likes= 999;
